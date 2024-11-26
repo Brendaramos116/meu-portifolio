@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Portifólio Pessoal
 
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi criado para apresentar meus trabalhos, habilidades e experiência como desenvolvedora Front-End Júnior.
@@ -41,4 +39,4 @@ Se tiver interesse em colaborar ou entrar em contato comigo:
 * **Email:** [brendaramos116@hotmail.com](brendaramos116@hotmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/brendaramos116](https://www.linkedin.com/in/brendaramos116)
 
->>>>>>> 1174c9d8d3f66c56511926883018ec4cfdb5f201
+
